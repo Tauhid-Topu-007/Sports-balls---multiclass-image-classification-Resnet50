@@ -102,7 +102,7 @@ Random Image Grid: Displays 9 random images from the dataset with their labels
 
 Training History Plots: Accuracy and loss curves over epochs
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 Fine-tuning: Unfreeze later layers of ResNet50 and train with lower learning rate
 
 More Epochs: Train for 20-50 epochs for better convergence
